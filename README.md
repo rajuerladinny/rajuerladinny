@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=rajuerladinny&label=Profile%20Views&color=blue&style=flat)
+
 <!--
 **rajuerladinny/rajuerladinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
